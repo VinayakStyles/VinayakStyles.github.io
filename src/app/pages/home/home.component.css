@@ -1,6 +1,6 @@
 .banner
 {
-    background-image: url('../../../assets/img/bannerimg.jpg');
+    background-image: url('../../../assets/img/bannerimg1.jpeg');
     height: 600px;
     background-position: center top;
     background-size: cover;
@@ -13,7 +13,7 @@
 }
 .content h1 
 {
-    color: #fff;
+    color: #3d0af5;
     font-size: 60px;
     font-weight: bold;
   
